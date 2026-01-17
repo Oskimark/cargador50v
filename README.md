@@ -20,7 +20,7 @@ Al alimentar el IC externamente con 17V, descubrimos que el **Pin 1 (COMP)** est
 
 - **Configuración detectada:** Pin 2 a GND. El control lo ejerce el Pin 1 a través de un transistor NPN (S8050) comandado por el secundario.
 
-http://googleusercontent.com/image_collection/image_retrieval/9658745458938037676_0
+![circuito muy similar](circuito.png)
 
 ### 3. Hallazgo del Componente Defectuoso
 Al rastrear por qué el Pin 1 estaba "mudo", llegamos a los optoacopladores.
